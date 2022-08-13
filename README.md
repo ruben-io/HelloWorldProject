@@ -34,8 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-- Considering this was my first time using Android Studio and Kotlin I did expereince some challenges navigating the Android Studio Interface.
+- Considering this was my first time using Android Studio and Kotlin I did experience some challenges navigating the Android Studio Interface.
 - Creating the Image, Button and Toast feature were relatively simple thanks to the walkthrough.
+- Learned how to create an Android Emulator within the Device Manager to run my app.
 - This was my first time committing to Github so it was helpful to learn to pull and commit through the Terminal.
 
 ## License
