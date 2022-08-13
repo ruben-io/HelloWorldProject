@@ -4,7 +4,7 @@ Submitted by: Ruben Velasquez
 
 HelloWorldProject is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -16,13 +16,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+* [x] Changed text color to purple.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='appWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -33,11 +34,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Considering this was my first time using Android Studio and Kotlin I did expereince some challenges navigating the Android Studio Interface.
+- Creating the Image, Button and Toast feature were relatively simple thanks to the walkthrough.
+- This was my first time committing to Github so it was helpful to learn to pull and commit through the Terminal.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ruben Velasquez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
