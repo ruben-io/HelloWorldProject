@@ -4,7 +4,7 @@ Submitted by: Ruben Velasquez
 
 HelloWorldProject is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
